@@ -13,7 +13,7 @@ By day I work in IT at **One Albania** and on the front-end at **Higherd**. The 
 
 Mobile-first, always. Most people will see your site on their phone first.
 
-## Projects I'm proud of
+## Projects 
 
 **[Top Level Performance](https://github.com/eljonenesi123/TopLevelPerformance)** · [live](https://top-levelperformance.com)<br>
 Site for a strength and conditioning coach: programs, pricing, bilingual pages, a client questionnaire and GA4 funnel tracking. Hand-written HTML/CSS/JS, real client, real leads.
@@ -33,11 +33,7 @@ Website for a specialty coffee shop in Tirana, with menu, journal, table reserva
 **[Script Line Studio](https://github.com/eljonenesi123/WebDev)** · [live](https://scriptlinestudio.com)<br>
 My studio's own site: React, Vite, GSAP and a 3D robot named Bob who handles the welcomes.
 
-## What I'm working on now
 
-- Front-end work at Higherd (private repos, so you won't see it here)
-- **Bob**, a voice assistant for my own PC that opens apps and tabs on command
-- An app that turns my phone into a remote for my laptop, because getting out of bed to pause a match is a real problem
 
 ## Let's talk
 
